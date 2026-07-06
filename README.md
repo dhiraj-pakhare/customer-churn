@@ -20,7 +20,7 @@ Telecom company loses 27% of customers annually. Predicting churn enables proact
 3. **Online security service** reduces churn by 25%
 
 ## 🚀 Deployment
-Live app: [Streamlit Link](https://churn-prediction.streamlit.app)
+Live app: [Streamlit Link](https://dhiraj-customer-churn.streamlit.app)
 
 ## 📁 Structure
 - `notebooks/` — Full analysis pipeline
