@@ -1,28 +1,28 @@
 # Data Processing
-pandas==2.0.3
-numpy==1.24.3
+pandas
+numpy
 
 # Machine Learning
-scikit-learn==1.3.0
-xgboost==2.0.0
-lightgbm==4.0.0
+scikit-learn
+xgboost
+lightgbm
 
 # Class Imbalance
-imbalanced-learn==0.11.0
+imbalanced-learn
 
 # Explainability
-shap==0.42.1
+shap
 
 # Visualization
-matplotlib==3.7.2
-seaborn==0.12.2
+matplotlib
+seaborn
 
 # Deployment
-streamlit==1.26.0
+streamlit
 
 # Jupyter
-jupyter==1.0.0
-ipykernel==6.25.1
+jupyter
+ipykernel
 
 # Utilities
-python-dotenv==1.0.0
+python-dotenv
